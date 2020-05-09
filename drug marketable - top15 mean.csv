@@ -1,0 +1,35 @@
+Top Means from sklearn tfidf,,,
+word,tfidf mean,,
+weed,0.0569572901,,
+beuh,0.04560770294,,"(french meaning ""uh"")"
+wickr,0.04526568161,,
+cannabis,0.04196724047,,
+snapchat,0.04106087988,,
+thc,0.0390099352,,
+livraison,0.03818682427,,"(french meaning ""delivery"")"
+france,0.3699058697,,
+joint,0.03535609346,,
+paris,0.03410915592,,
+whatsapp,0.03285019797,,
+telegram,0.03190475697,,
+weedfrance,0.03108446049,,
+de,0.03043103928,,"(french for ""of"")"
+laweed,0.02942929667,,maybe LA weed?
+,,,
+Top Means from manual tfidf,,,
+word,tfidf mean,,
+pari,0.01593202948,,
+thc,0.0155067171,,
+franc,0.01515265612,,
+cannabi,0.01507312007,,
+livraison,0.01436255932,,
+weedfranc,0.01431665321,,
+joint,0.0141727911,,
+snapchat,0.01413583007,,
+lawe,0.01396968174,,laweed? but stemmed?
+dab,0.01395081359,,nltk stemmed too much
+de,0.01376163916,,
+wickr,0.01374066666,,
+a,0.01344633783,,didn't implement stop words..
+beuh,0.01310598378,,
+francevert,0.01248473875,,france green?
